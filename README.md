@@ -1,31 +1,48 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalxY2BvAA/giphy.gif" width="280" />
 </p>
 
-## zahrakh-dev
-Frontend Developer | HTML • CSS • JavaScript
+<h2 align="center">zahrakh-dev</h2>
+
+<p align="center">
+Frontend Developer | Building clean & responsive websites
+</p>
 
 ---
 
 ### 🛠 Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+</p>
 
 ---
 
-### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,sass" />
+### 👩‍💻 About Me
+I am Zahra Khanezad, a Frontend Developer passionate about creating modern, clean, and responsive user interfaces.  
+I enjoy working with layouts, UI details, and continuously improving my skills.
 
 ---
 
-### ✨ What I Do
-- Responsive Web Design  
-- Flexbox-based layouts  
-- Clean HTML & CSS  
-- JavaScript UI interactions  
-
----
-
-### 📫 Contact
-- Email: **Zahrakhanezad12@gmail.com**  
-- Telegram: **@Zahra_khanezad**  
-- Instagram: **@Zahra.kh.840**
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:Zahrakhanezad12@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://t.me/Zahra_khanezad">
+    <img src="https://img.icons8.com/color/48/telegram-app.png"/>
+  </a>
+  <a href="https://instagram.com/Zahra.kh.840">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>
+</p>
