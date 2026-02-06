@@ -1,23 +1,17 @@
-<h2 align="center">Hi, I'm Zahra 🎀</h2>
+# Hi, I'm Zahra 🎀
 
-<p align="center">Frontend Developer | Building clean & modern web experiences</p>
-
-<hr>
+*Frontend Developer | Building clean & modern web experiences*
 
 ### 👩‍💻 About Me
-- Passionate about frontend development  
-- Enjoy building clean and responsive user interfaces  
-- Focused on modern web technologies  
-- Continuously learning and improving my skills  
-
----
+- 💻 Passionate about frontend development
+- 🎨 Enjoy building clean and responsive UIs
+- ⚡ Focused on modern web technologies
+- 📚 Continuously learning and improving skills
 
 ### 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,typescript,tailwind,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,typescript,tailwind,bootstrap,sass,figma" height="50"/>
 </p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
