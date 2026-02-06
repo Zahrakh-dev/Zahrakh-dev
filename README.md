@@ -7,12 +7,12 @@
 - 🎨 Enjoy building clean and responsive UIs
 - ⚡ Focused on modern web technologies
 - 📚 Continuously learning and improving skills
-
+<hr>
 ### 🛠 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,typescript,tailwind,bootstrap,sass,figma" height="50"/>
 </p>
-
+<hr>
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:Zahrakhanezad12@gmail.com">
