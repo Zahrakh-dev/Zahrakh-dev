@@ -1,7 +1,7 @@
 # Hi, I'm Zahra 🎀
 
 *Frontend Developer | Building clean & modern web experiences*
-
+<br>
 ### 👩‍💻 About Me
 - 💻 Passionate about frontend development
 - 🎨 Enjoy building clean and responsive UIs
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,typescript,tailwind,bootstrap,sass,figma" height="50"/>
 </p>
-
+<hr>
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:Zahrakhanezad12@gmail.com">
