@@ -1,4 +1,4 @@
-<h2 align="center" Hi, I'm Zahra 🎀 </h2>
+# Hi, I'm Zahra 🎀
 
 *Frontend Developer | Building clean & modern web experiences*
 <br>
