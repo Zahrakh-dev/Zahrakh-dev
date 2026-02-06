@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Zahra 🎀</h2>
-<hr align="center">
+<!-- <hr align="center"> -->
 <p align="center">Frontend Developer | Building clean & modern web experiences</p>
 
 ### 👩‍💻 About Me
