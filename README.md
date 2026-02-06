@@ -1,4 +1,4 @@
-<h2 align="center">سلام من زهرا هستم</h2>
+<h2 align="center">Hi, I'm Zahra 🎀</h2>
 <hr align="center">
 <p align="center">Frontend Developer | Building clean & modern web experiences</p>
 
