@@ -1,4 +1,4 @@
-# Hi, I'm Zahra 🎀
+# align="center" Hi, I'm Zahra 🎀
 
 *Frontend Developer | Building clean & modern web experiences*
 <br>
