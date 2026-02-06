@@ -1,36 +1,21 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="280" />
-</p>
+<h2 align="center">Hi, I'm Zahra 🎀</h2>
 
-<h2 align="center">zahrakh-dev</h2>
+<p align="center">Frontend Developer | Building clean & modern web experiences</p>
 
-<p align="center">
-Frontend Developer | Building clean & responsive websites
-</p>
+<hr>
+
+### 👩‍💻 About Me
+- Passionate about frontend development  
+- Enjoy building clean and responsive user interfaces  
+- Focused on modern web technologies  
+- Continuously learning and improving my skills  
 
 ---
 
 ### 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,typescript,tailwind,bootstrap,sass,figma" />
 </p>
-
----
-
-### 👩‍💻 About Me
-I am Zahra Khanezad, a Frontend Developer passionate about creating modern, clean, and responsive user interfaces.  
-I enjoy working with layouts, UI details, and continuously improving my skills.
 
 ---
 
