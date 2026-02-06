@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalxY2BvAA/giphy.gif" width="280" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code.gif" width="280" />
 </p>
 
 <h2 align="center">zahrakh-dev</h2>
